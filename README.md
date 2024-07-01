@@ -1,7 +1,7 @@
-## Olá. Me chamo Juan
+## Olá. Me chamo Juan!
 ## Bem vindo ao meu perfil do GitHub 👋
 
-
+- 🙍‍♂️ Tenho 24 anos e moro em Porto Alegre - RS
 - 🔭 Atualmente estou trabalhando como Catalogador de Idiomas na Klassmatt
 - 🌱 Estou estudando logica de programação e estudando a linguagem Python
 - 👯 Quero entrar na área de dados e ao mesmo tempo melhorar minhas habilidades em programação

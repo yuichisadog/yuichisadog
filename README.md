@@ -6,7 +6,7 @@
 - 🌱 Estou estudando logica de programação e estudando a linguagem Python
 - 👯 Quero entrar na área de dados e ao mesmo tempo melhorar minhas habilidades em programação
 - 🤔 No momento aceitando qualquer dicas e ajuda para aprender Python
-- 💬 Gosto de animes, jogos jrpg, online e sobre Hip-Hop
+- 💬 Gosto de animes, jogos jrpg/online e Hip-Hop
 - 😄 Pronomes: Ele/dele
 - ⚡ Curiosidade: Aprendi a língua inglesa escutando música, jogando jogos e assistindo filmes. Dos meus 16 até os 18 anos fiz um curso de música e aprendi instrumentos como viola clássica e violino
 ## Estou aprendendo

@@ -2,8 +2,7 @@
 ## Bem vindo ao meu perfil do GitHub 👋
 
 - 🙍‍♂️ Tenho 24 anos e moro em Porto Alegre - RS
-- 🔭 Atualmente estou trabalhando como Catalogador de Idiomas na Klassmatt
-- 🌱 Estou estudando logica de programação e estudando a linguagem Python
+- 🌱 Estou estudando logica de programação e estudando Javascript, HTML e CSS no SENAC
 - 👯 Quero entrar na área de dados e ao mesmo tempo melhorar minhas habilidades em programação
 - 🤔 No momento aceitando qualquer dicas e ajuda para aprender Python
 - 💬 Gosto de animes, jogos jrpg/online e Hip-Hop

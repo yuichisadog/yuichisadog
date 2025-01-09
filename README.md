@@ -12,6 +12,8 @@
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/768px-HTML5_logo_black.svg.png" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="40" height="40"/>
  <img loading="lazy" src="https://wisetrolley.com/wp-content/uploads/2023/03/CSS-T-shirt-Black-2.jpg" width="40" height="40"/>
 
+ - Finalizado curso desenvolvimento front-end no Senac Tech.
+
 
 - Contatos:
 
@@ -19,6 +21,7 @@
           </a>
 <a href="https://www.linkedin.com/in//juan-santos-oliveira-b06119183" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>   
+
 
 
           
